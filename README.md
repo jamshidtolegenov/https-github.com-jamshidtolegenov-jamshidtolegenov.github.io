@@ -1,1 +1,1 @@
-# https-github.com-jamshidtolegenov-jamshidtolegenov.github.lo
+jamshidtolegenov.github.lo
